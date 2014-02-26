@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/Projects/!svn/ver/9768/Stream57/StreamLine%203.1/Development/MediaFileMerger/trunk/MediaFileMerger/MediaFileMerger/bin/Release/apps/segmenter
+END
+avutil-50.dll
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Projects/!svn/ver/9768/Stream57/StreamLine%203.1/Development/MediaFileMerger/trunk/MediaFileMerger/MediaFileMerger/bin/Release/apps/segmenter/avutil-50.dll
+END
+avcodec-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/Projects/!svn/ver/9768/Stream57/StreamLine%203.1/Development/MediaFileMerger/trunk/MediaFileMerger/MediaFileMerger/bin/Release/apps/segmenter/avcodec-52.dll
+END
+segmenter.exe
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/Projects/!svn/ver/9768/Stream57/StreamLine%203.1/Development/MediaFileMerger/trunk/MediaFileMerger/MediaFileMerger/bin/Release/apps/segmenter/segmenter.exe
+END
+avformat-52.dll
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/Projects/!svn/ver/9768/Stream57/StreamLine%203.1/Development/MediaFileMerger/trunk/MediaFileMerger/MediaFileMerger/bin/Release/apps/segmenter/avformat-52.dll
+END
